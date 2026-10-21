@@ -8,7 +8,7 @@ int main(void) {
 
     ans=1.0/(i+100);
 
-    printf("%.15f\n",ans);
+    printf("%.15f",ans);
     
     return 0;
 }
